@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Tiwari</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant-ji" alt="prashant-ji" /></a> </p>
+<p align="left"> <a href="https://github.com/Prashant-Ji"><img src="https://postimg.cc/06mcy8cc?username=prashant-ji" alt="Prashant-Ji" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis**
 
